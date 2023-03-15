@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yiheng Tong.
-- 🌱 I’m currently an undergraduate in Shandong University and a research assistant in Computer Architecture & Embedded System Research Center.
+- 🌱 I’m currently an undergraduate in the School of Computer Science and Technology of Shandong University and I'm going to pursue master's degree in the School of Information of Renmin University of China.
 - 👀 I’m interested in computer architecture.
 - 📫 Email: tongyiheng@mail.sdu.edu.cn; yihengtong@outlook.com
 
