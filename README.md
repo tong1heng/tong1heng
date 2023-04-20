@@ -3,7 +3,7 @@
 
 - 🐳 I’m Yiheng Tong, an undergraduate in the School of Computer Science and Technology of **Shandong University**.
 - 🌱 I'm going to pursue master's degree in the School of Information of **Renmin University of China**.
-- 🍊 I’m a **system enthusiast** and currently focus on **learned index**.
+- 🍊 I’m a **system enthusiast** and currently focused on **learned index**.
 - 👀 You can visit my website at https://tongyiheng.top/.
 - 📫 If you have any questions or comments, please email me at: tongyiheng@mail.sdu.edu.cn.
 
