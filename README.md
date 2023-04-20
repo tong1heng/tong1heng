@@ -10,8 +10,8 @@
 
 ### GitHub Stats: 
 
-[![Yiheng Tong's GitHub stats](https://github-readme-stats.vercel.app/api?username=tong1heng&show_icons=true&theme=transparent&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tong1heng&layout=compact&hide=html,CSS)](https://github.com/anuraghazra/github-readme-stats)
+![Yiheng Tong's GitHub stats](https://github-readme-stats.vercel.app/api?username=tong1heng&show_icons=true&theme=transparent&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tong1heng&layout=compact&hide=html,CSS)
 
 
 <!---
