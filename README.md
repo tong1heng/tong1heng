@@ -8,6 +8,12 @@
 - 📫 If you have any questions or comments, please email me at: tongyiheng@mail.sdu.edu.cn.
 
 
+### GitHub Stats: 
+
+[![Yiheng Tong's GitHub stats](https://github-readme-stats.vercel.app/api?username=tong1heng&show_icons=true&theme=transparent&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tong1heng&layout=compact&hide=html,CSS)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 TongYiheng/TongYiheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
