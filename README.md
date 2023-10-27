@@ -7,7 +7,7 @@
 
 - 🐳 I’m Yiheng Tong, a first-year graduate in the School of Information of **Renmin University of China**.
 - 🍊 I’m a **system enthusiast** and currently focused on **learned index**.
-- 👀 You can visit my website at https://tongyiheng.top/.
+- 👀 You can visit my website at https://tong1heng.github.io/.
 - 📫 If you have any questions or comments, please email me at: yihengtong@ruc.edu.cn or yihengtong@outlook.com.
 
 
